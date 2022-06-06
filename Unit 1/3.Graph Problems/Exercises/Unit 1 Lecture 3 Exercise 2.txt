@@ -1,0 +1,6 @@
+ABC -> BAC/ACB
+BAC -> ABC*/BCA
+ACB -> ABC*/CAB
+BCA -> BAC*/CBA
+CAB -> ACB*/CBA
+CBA -> BCA*/CAB*
